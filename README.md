@@ -12,3 +12,5 @@ this wher we deploy code
 ## webserver
 
 this is used to host the website
+
+this is Angular website.
